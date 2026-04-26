@@ -1,0 +1,2643 @@
+Position,Conservation,Entropy,GapFraction,Category,gp120_region
+1,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+3,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+4,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+5,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+6,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+7,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+8,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+9,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+10,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+11,0.5,1.0,0.0,Variable,Conserved/Core
+12,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+13,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+14,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+15,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+16,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+17,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+18,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+19,0.5,1.5,0.0,Variable,Conserved/Core
+20,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+21,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+22,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+23,0.5,1.0,0.0,Variable,Conserved/Core
+24,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+25,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+26,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+27,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+28,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+29,0.5,1.0,0.0,Variable,Conserved/Core
+30,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+31,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+32,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+33,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+34,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+35,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+36,0.5,1.0,0.0,Variable,Conserved/Core
+37,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+38,0.5,1.0,0.0,Variable,Conserved/Core
+39,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+40,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+41,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+42,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+43,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+44,0.5,1.5,0.0,Variable,Conserved/Core
+45,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+46,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+47,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+48,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+49,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+50,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+51,0.5,1.5,0.0,Variable,Conserved/Core
+52,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+53,0.5,1.5,0.0,Variable,Conserved/Core
+54,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+55,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+56,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+57,0.5,1.0,0.0,Variable,Conserved/Core
+58,0.5,1.5,0.0,Variable,Conserved/Core
+59,0.5,1.0,0.0,Variable,Conserved/Core
+60,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+61,0.5,1.5,0.0,Variable,Conserved/Core
+62,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+63,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+64,0.5,1.0,0.0,Variable,Conserved/Core
+65,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+66,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+67,0.3333333333333333,1.584962500721156,0.25,Variable,Conserved/Core
+68,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+69,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+70,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+71,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+72,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+73,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+74,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+75,0.5,1.0,0.0,Variable,Conserved/Core
+76,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+77,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+78,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+79,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+80,0.5,1.0,0.0,Variable,Conserved/Core
+81,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+82,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+83,0.5,1.5,0.0,Variable,Conserved/Core
+84,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+85,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+86,0.5,1.0,0.0,Variable,Conserved/Core
+87,0.5,1.5,0.0,Variable,Conserved/Core
+88,0.5,1.5,0.0,Variable,Conserved/Core
+89,0.5,1.5,0.0,Variable,Conserved/Core
+90,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+91,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+92,0.5,1.0,0.0,Variable,Conserved/Core
+93,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+94,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+95,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+96,0.5,1.0,0.0,Variable,Conserved/Core
+97,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+98,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+99,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+100,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+101,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+102,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+103,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+104,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+105,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+106,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+107,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+108,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+109,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+110,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+111,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+112,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+113,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+114,0.5,1.0,0.0,Variable,Conserved/Core
+115,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+116,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+117,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+118,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+119,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+120,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+121,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+122,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+123,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+124,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+125,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+126,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+127,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+128,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+129,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+130,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+131,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+132,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+133,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+134,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+135,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+136,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+137,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+138,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+139,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+140,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+141,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+142,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+143,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+144,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+145,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+146,0.5,1.5,0.0,Variable,Conserved/Core
+147,0.5,1.5,0.0,Variable,Conserved/Core
+148,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+149,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+150,0.5,1.0,0.0,Variable,Conserved/Core
+151,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+152,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+153,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+154,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+155,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+156,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+157,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+158,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+159,0.5,1.0,0.0,Variable,Conserved/Core
+160,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+161,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+162,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+163,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+164,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+165,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+166,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+167,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+168,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+169,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+170,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+171,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+172,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+173,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+174,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+175,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+176,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+177,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+178,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+179,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+180,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+181,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+182,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+183,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+184,0.5,1.0,0.0,Variable,Conserved/Core
+185,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+186,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+187,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+188,0.5,1.5,0.0,Variable,Conserved/Core
+189,0.5,1.5,0.0,Variable,Conserved/Core
+190,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+191,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+192,0.5,1.0,0.0,Variable,Conserved/Core
+193,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+194,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+195,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+196,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+197,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+198,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+199,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+200,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+201,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+202,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+203,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+204,0.5,1.0,0.0,Variable,Conserved/Core
+205,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+206,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+207,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+208,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+209,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+210,0.5,1.0,0.0,Variable,Conserved/Core
+211,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+212,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+213,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+214,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+215,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+216,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+217,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+218,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+219,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+220,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+221,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+222,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+223,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+224,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+225,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+226,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+227,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+228,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+229,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+230,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+231,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+232,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+233,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+234,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+235,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+236,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+237,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+238,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+239,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+240,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+241,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+242,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+243,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+244,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+245,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+246,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+247,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+248,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+249,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+250,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+251,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+252,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+253,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+254,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+255,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+256,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+257,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+258,0.5,1.0,0.0,Variable,Conserved/Core
+259,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+260,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+261,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+262,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+263,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+264,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+265,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+266,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+267,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+268,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+269,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+270,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+271,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+272,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+273,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+274,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+275,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+276,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+277,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+278,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+279,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+280,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+281,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+282,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+283,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+284,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+285,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+286,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+287,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+288,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+289,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+290,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+291,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+292,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+293,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+294,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+295,0.5,1.0,0.0,Variable,Conserved/Core
+296,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+297,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+298,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+299,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+300,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+301,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+302,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+303,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+304,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+305,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+306,0.5,1.0,0.0,Variable,Conserved/Core
+307,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+308,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+309,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+310,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+311,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+312,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+313,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+314,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+315,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+316,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+317,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+318,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+319,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+320,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+321,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+322,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+323,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+324,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+325,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+326,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+327,0.5,1.0,0.0,Variable,Conserved/Core
+328,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+329,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+330,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+331,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+332,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+333,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+334,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+335,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+336,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+337,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+338,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+339,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+340,0.5,1.0,0.0,Variable,Conserved/Core
+341,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+342,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+343,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+344,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+345,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+346,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+347,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+348,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+349,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+350,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+351,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+352,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+353,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+354,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+355,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+356,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+357,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+358,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+359,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+360,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+361,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+362,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+363,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+364,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+365,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+366,0.5,1.0,0.0,Variable,Conserved/Core
+367,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+368,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+369,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+370,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+371,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+372,0.5,1.0,0.0,Variable,Conserved/Core
+373,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+374,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+375,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+376,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+377,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+378,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+379,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+380,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+381,0.5,1.0,0.0,Variable,Conserved/Core
+382,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+383,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+384,0.5,1.5,0.0,Variable,Conserved/Core
+385,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+386,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+387,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+388,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+389,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+390,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+391,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+392,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+393,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+394,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+395,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+396,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+397,1.0,0.0,0.0,Highly Conserved,V1 Loop
+398,1.0,0.0,0.75,Highly Conserved,V1 Loop
+399,1.0,0.0,0.75,Highly Conserved,V1 Loop
+400,1.0,0.0,0.75,Highly Conserved,V1 Loop
+401,1.0,0.0,0.25,Highly Conserved,V1 Loop
+402,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+403,1.0,0.0,0.25,Highly Conserved,V1 Loop
+404,1.0,0.0,0.25,Highly Conserved,V1 Loop
+405,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+406,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+407,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+408,1.0,0.0,0.0,Highly Conserved,V1 Loop
+409,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+410,1.0,0.0,0.0,Highly Conserved,V1 Loop
+411,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+412,1.0,0.0,0.0,Highly Conserved,V1 Loop
+413,0.5,1.5,0.0,Variable,V1 Loop
+414,1.0,0.0,0.0,Highly Conserved,V1 Loop
+415,1.0,0.0,0.75,Highly Conserved,V1 Loop
+416,1.0,0.0,0.75,Highly Conserved,V1 Loop
+417,1.0,0.0,0.5,Highly Conserved,V1 Loop
+418,0.5,1.0,0.0,Variable,V1 Loop
+419,1.0,0.0,0.0,Highly Conserved,V1 Loop
+420,0.5,1.5,0.0,Variable,V1 Loop
+421,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+422,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+423,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+424,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+425,1.0,0.0,0.0,Highly Conserved,V1 Loop
+426,0.5,1.5,0.0,Variable,V1 Loop
+427,1.0,0.0,0.0,Highly Conserved,V1 Loop
+428,1.0,0.0,0.0,Highly Conserved,V1 Loop
+429,1.0,0.0,0.0,Highly Conserved,V1 Loop
+430,1.0,0.0,0.0,Highly Conserved,V1 Loop
+431,0.5,1.5,0.0,Variable,V1 Loop
+432,1.0,0.0,0.25,Highly Conserved,V1 Loop
+433,1.0,0.0,0.25,Highly Conserved,V1 Loop
+434,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+435,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+436,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+437,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+438,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+439,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+440,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+441,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+442,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+443,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+444,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+445,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+446,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+447,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+448,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+449,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+450,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+451,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+452,0.3333333333333333,1.584962500721156,0.25,Variable,V1 Loop
+453,0.6666666666666666,0.9182958340544896,0.25,Variable,V1 Loop
+454,1.0,0.0,0.25,Highly Conserved,V1 Loop
+455,1.0,0.0,0.25,Highly Conserved,V1 Loop
+456,1.0,0.0,0.75,Highly Conserved,V1 Loop
+457,1.0,0.0,0.75,Highly Conserved,V1 Loop
+458,1.0,0.0,0.75,Highly Conserved,V1 Loop
+459,1.0,0.0,0.75,Highly Conserved,V1 Loop
+460,1.0,0.0,0.75,Highly Conserved,V1 Loop
+461,1.0,0.0,0.75,Highly Conserved,V1 Loop
+462,1.0,0.0,0.75,Highly Conserved,V1 Loop
+463,1.0,0.0,0.75,Highly Conserved,V1 Loop
+464,1.0,0.0,0.75,Highly Conserved,V1 Loop
+465,1.0,0.0,0.75,Highly Conserved,V1 Loop
+466,1.0,0.0,0.75,Highly Conserved,V1 Loop
+467,1.0,0.0,0.75,Highly Conserved,V1 Loop
+468,1.0,0.0,0.75,Highly Conserved,V1 Loop
+469,1.0,0.0,0.75,Highly Conserved,V1 Loop
+470,1.0,0.0,0.75,Highly Conserved,V1 Loop
+471,0.5,1.0,0.0,Variable,V1 Loop
+472,0.75,0.8112781244591328,0.0,Variable,V1 Loop
+473,0.5,1.5,0.0,Variable,V1 Loop
+474,1.0,0.0,0.0,Highly Conserved,V1 Loop
+475,1.0,0.0,0.0,Highly Conserved,V2 Loop
+476,1.0,0.0,0.0,Highly Conserved,V2 Loop
+477,1.0,0.0,0.0,Highly Conserved,V2 Loop
+478,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+479,1.0,0.0,0.75,Highly Conserved,V2 Loop
+480,1.0,0.0,0.75,Highly Conserved,V2 Loop
+481,1.0,0.0,0.75,Highly Conserved,V2 Loop
+482,1.0,0.0,0.75,Highly Conserved,V2 Loop
+483,1.0,0.0,0.75,Highly Conserved,V2 Loop
+484,1.0,0.0,0.75,Highly Conserved,V2 Loop
+485,1.0,0.0,0.0,Highly Conserved,V2 Loop
+486,1.0,0.0,0.0,Highly Conserved,V2 Loop
+487,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+488,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+489,1.0,0.0,0.0,Highly Conserved,V2 Loop
+490,1.0,0.0,0.0,Highly Conserved,V2 Loop
+491,1.0,0.0,0.0,Highly Conserved,V2 Loop
+492,0.5,1.0,0.0,Variable,V2 Loop
+493,1.0,0.0,0.0,Highly Conserved,V2 Loop
+494,1.0,0.0,0.0,Highly Conserved,V2 Loop
+495,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+496,1.0,0.0,0.0,Highly Conserved,V2 Loop
+497,1.0,0.0,0.0,Highly Conserved,V2 Loop
+498,1.0,0.0,0.0,Highly Conserved,V2 Loop
+499,1.0,0.0,0.0,Highly Conserved,V2 Loop
+500,1.0,0.0,0.0,Highly Conserved,V2 Loop
+501,1.0,0.0,0.0,Highly Conserved,V2 Loop
+502,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+503,1.0,0.0,0.0,Highly Conserved,V2 Loop
+504,1.0,0.0,0.0,Highly Conserved,V2 Loop
+505,0.5,1.0,0.0,Variable,V2 Loop
+506,0.5,1.0,0.0,Variable,V2 Loop
+507,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+508,1.0,0.0,0.0,Highly Conserved,V2 Loop
+509,1.0,0.0,0.0,Highly Conserved,V2 Loop
+510,1.0,0.0,0.0,Highly Conserved,V2 Loop
+511,1.0,0.0,0.0,Highly Conserved,V2 Loop
+512,1.0,0.0,0.0,Highly Conserved,V2 Loop
+513,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+514,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+515,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+516,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+517,1.0,0.0,0.0,Highly Conserved,V2 Loop
+518,1.0,0.0,0.0,Highly Conserved,V2 Loop
+519,1.0,0.0,0.0,Highly Conserved,V2 Loop
+520,1.0,0.0,0.0,Highly Conserved,V2 Loop
+521,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+522,1.0,0.0,0.0,Highly Conserved,V2 Loop
+523,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+524,1.0,0.0,0.0,Highly Conserved,V2 Loop
+525,1.0,0.0,0.0,Highly Conserved,V2 Loop
+526,1.0,0.0,0.0,Highly Conserved,V2 Loop
+527,1.0,0.0,0.0,Highly Conserved,V2 Loop
+528,1.0,0.0,0.0,Highly Conserved,V2 Loop
+529,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+530,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+531,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+532,0.5,1.0,0.0,Variable,V2 Loop
+533,1.0,0.0,0.0,Highly Conserved,V2 Loop
+534,0.5,1.5,0.0,Variable,V2 Loop
+535,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+536,1.0,0.0,0.0,Highly Conserved,V2 Loop
+537,1.0,0.0,0.0,Highly Conserved,V2 Loop
+538,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+539,0.5,1.0,0.0,Variable,V2 Loop
+540,0.5,1.0,0.0,Variable,V2 Loop
+541,0.5,1.5,0.0,Variable,V2 Loop
+542,1.0,0.0,0.0,Highly Conserved,V2 Loop
+543,1.0,0.0,0.0,Highly Conserved,V2 Loop
+544,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+545,1.0,0.0,0.0,Highly Conserved,V2 Loop
+546,1.0,0.0,0.0,Highly Conserved,V2 Loop
+547,1.0,0.0,0.0,Highly Conserved,V2 Loop
+548,1.0,0.0,0.0,Highly Conserved,V2 Loop
+549,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+550,1.0,0.0,0.0,Highly Conserved,V2 Loop
+551,1.0,0.0,0.0,Highly Conserved,V2 Loop
+552,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+553,1.0,0.0,0.0,Highly Conserved,V2 Loop
+554,1.0,0.0,0.0,Highly Conserved,V2 Loop
+555,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+556,1.0,0.0,0.0,Highly Conserved,V2 Loop
+557,0.5,1.0,0.0,Variable,V2 Loop
+558,1.0,0.0,0.0,Highly Conserved,V2 Loop
+559,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+560,1.0,0.0,0.0,Highly Conserved,V2 Loop
+561,1.0,0.0,0.0,Highly Conserved,V2 Loop
+562,1.0,0.0,0.0,Highly Conserved,V2 Loop
+563,1.0,0.0,0.0,Highly Conserved,V2 Loop
+564,1.0,0.0,0.0,Highly Conserved,V2 Loop
+565,0.5,1.5,0.0,Variable,V2 Loop
+566,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+567,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+568,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+569,1.0,0.0,0.0,Highly Conserved,V2 Loop
+570,0.5,1.0,0.0,Variable,V2 Loop
+571,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+572,0.5,1.0,0.0,Variable,V2 Loop
+573,1.0,0.0,0.0,Highly Conserved,V2 Loop
+574,0.5,1.0,0.0,Variable,V2 Loop
+575,1.0,0.0,0.0,Highly Conserved,V2 Loop
+576,0.6666666666666666,0.9182958340544896,0.25,Variable,V2 Loop
+577,0.6666666666666666,0.9182958340544896,0.25,Variable,V2 Loop
+578,1.0,0.0,0.25,Highly Conserved,V2 Loop
+579,0.6666666666666666,0.9182958340544896,0.25,Variable,V2 Loop
+580,0.6666666666666666,0.9182958340544896,0.25,Variable,V2 Loop
+581,0.6666666666666666,0.9182958340544896,0.25,Variable,V2 Loop
+582,1.0,0.0,0.0,Highly Conserved,V2 Loop
+583,1.0,0.0,0.0,Highly Conserved,V2 Loop
+584,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+585,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+586,0.5,1.5,0.0,Variable,V2 Loop
+587,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+588,0.5,1.5,0.0,Variable,V2 Loop
+589,1.0,0.0,0.0,Highly Conserved,V2 Loop
+590,1.0,0.0,0.0,Highly Conserved,V2 Loop
+591,0.75,0.8112781244591328,0.0,Variable,V2 Loop
+592,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+593,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+594,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+595,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+596,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+597,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+598,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+599,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+600,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+601,0.5,1.0,0.5,Variable,Conserved/Core
+602,0.5,1.0,0.5,Variable,Conserved/Core
+603,0.5,1.0,0.5,Variable,Conserved/Core
+604,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+605,0.5,1.0,0.5,Variable,Conserved/Core
+606,0.5,1.0,0.5,Variable,Conserved/Core
+607,0.5,1.0,0.5,Variable,Conserved/Core
+608,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+609,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+610,0.5,1.0,0.5,Variable,Conserved/Core
+611,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+612,0.5,1.0,0.5,Variable,Conserved/Core
+613,0.5,1.0,0.5,Variable,Conserved/Core
+614,0.5,1.0,0.5,Variable,Conserved/Core
+615,0.5,1.0,0.5,Variable,Conserved/Core
+616,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+617,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+618,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+619,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+620,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+621,0.5,1.0,0.0,Variable,Conserved/Core
+622,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+623,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+624,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+625,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+626,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+627,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+628,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+629,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+630,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+631,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+632,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+633,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+634,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+635,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+636,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+637,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+638,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+639,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+640,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+641,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+642,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+643,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+644,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+645,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+646,0.5,1.5,0.0,Variable,Conserved/Core
+647,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+648,0.5,1.0,0.0,Variable,Conserved/Core
+649,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+650,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+651,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+652,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+653,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+654,0.5,1.0,0.0,Variable,Conserved/Core
+655,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+656,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+657,0.5,1.5,0.0,Variable,Conserved/Core
+658,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+659,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+660,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+661,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+662,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+663,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+664,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+665,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+666,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+667,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+668,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+669,0.5,1.5,0.0,Variable,Conserved/Core
+670,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+671,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+672,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+673,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+674,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+675,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+676,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+677,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+678,0.5,1.5,0.0,Variable,Conserved/Core
+679,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+680,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+681,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+682,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+683,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+684,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+685,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+686,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+687,0.5,1.0,0.0,Variable,Conserved/Core
+688,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+689,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+690,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+691,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+692,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+693,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+694,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+695,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+696,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+697,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+698,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+699,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+700,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+701,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+702,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+703,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+704,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+705,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+706,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+707,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+708,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+709,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+710,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+711,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+712,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+713,0.5,1.0,0.0,Variable,Conserved/Core
+714,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+715,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+716,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+717,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+718,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+719,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+720,0.5,1.0,0.0,Variable,Conserved/Core
+721,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+722,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+723,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+724,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+725,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+726,0.5,1.0,0.0,Variable,Conserved/Core
+727,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+728,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+729,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+730,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+731,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+732,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+733,0.5,1.0,0.0,Variable,Conserved/Core
+734,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+735,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+736,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+737,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+738,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+739,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+740,0.5,1.0,0.0,Variable,Conserved/Core
+741,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+742,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+743,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+744,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+745,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+746,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+747,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+748,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+749,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+750,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+751,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+752,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+753,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+754,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+755,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+756,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+757,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+758,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+759,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+760,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+761,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+762,0.5,1.0,0.0,Variable,Conserved/Core
+763,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+764,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+765,0.5,1.0,0.0,Variable,Conserved/Core
+766,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+767,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+768,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+769,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+770,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+771,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+772,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+773,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+774,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+775,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+776,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+777,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+778,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+779,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+780,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+781,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+782,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+783,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+784,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+785,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+786,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+787,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+788,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+789,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+790,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+791,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+792,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+793,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+794,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+795,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+796,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+797,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+798,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+799,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+800,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+801,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+802,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+803,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+804,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+805,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+806,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+807,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+808,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+809,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+810,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+811,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+812,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+813,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+814,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+815,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+816,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+817,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+818,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+819,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+820,0.5,1.0,0.0,Variable,Conserved/Core
+821,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+822,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+823,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+824,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+825,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+826,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+827,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+828,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+829,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+830,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+831,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+832,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+833,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+834,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+835,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+836,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+837,0.5,1.0,0.0,Variable,Conserved/Core
+838,0.5,1.5,0.0,Variable,Conserved/Core
+839,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+840,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+841,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+842,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+843,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+844,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+845,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+846,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+847,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+848,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+849,0.5,1.0,0.0,Variable,Conserved/Core
+850,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+851,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+852,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+853,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+854,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+855,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+856,0.5,1.0,0.0,Variable,Conserved/Core
+857,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+858,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+859,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+860,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+861,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+862,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+863,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+864,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+865,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+866,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+867,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+868,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+869,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+870,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+871,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+872,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+873,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+874,0.5,1.5,0.0,Variable,Conserved/Core
+875,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+876,0.5,1.5,0.0,Variable,Conserved/Core
+877,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+878,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+879,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+880,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+881,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+882,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+883,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+884,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+885,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+886,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+887,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+888,0.5,1.0,0.0,Variable,Conserved/Core
+889,1.0,0.0,0.0,Highly Conserved,V3 Loop
+890,1.0,0.0,0.0,Highly Conserved,V3 Loop
+891,1.0,0.0,0.0,Highly Conserved,V3 Loop
+892,1.0,0.0,0.0,Highly Conserved,V3 Loop
+893,0.5,1.0,0.0,Variable,V3 Loop
+894,0.5,1.0,0.0,Variable,V3 Loop
+895,1.0,0.0,0.0,Highly Conserved,V3 Loop
+896,1.0,0.0,0.0,Highly Conserved,V3 Loop
+897,1.0,0.0,0.0,Highly Conserved,V3 Loop
+898,1.0,0.0,0.0,Highly Conserved,V3 Loop
+899,1.0,0.0,0.0,Highly Conserved,V3 Loop
+900,1.0,0.0,0.0,Highly Conserved,V3 Loop
+901,1.0,0.0,0.0,Highly Conserved,V3 Loop
+902,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+903,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+904,1.0,0.0,0.0,Highly Conserved,V3 Loop
+905,1.0,0.0,0.0,Highly Conserved,V3 Loop
+906,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+907,1.0,0.0,0.0,Highly Conserved,V3 Loop
+908,1.0,0.0,0.0,Highly Conserved,V3 Loop
+909,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+910,1.0,0.0,0.0,Highly Conserved,V3 Loop
+911,1.0,0.0,0.0,Highly Conserved,V3 Loop
+912,1.0,0.0,0.0,Highly Conserved,V3 Loop
+913,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+914,1.0,0.0,0.0,Highly Conserved,V3 Loop
+915,1.0,0.0,0.0,Highly Conserved,V3 Loop
+916,0.5,1.5,0.0,Variable,V3 Loop
+917,1.0,0.0,0.0,Highly Conserved,V3 Loop
+918,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+919,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+920,1.0,0.0,0.0,Highly Conserved,V3 Loop
+921,1.0,0.0,0.0,Highly Conserved,V3 Loop
+922,0.5,1.5,0.0,Variable,V3 Loop
+923,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+924,0.5,1.5,0.0,Variable,V3 Loop
+925,1.0,0.0,0.0,Highly Conserved,V3 Loop
+926,1.0,0.0,0.0,Highly Conserved,V3 Loop
+927,1.0,0.0,0.0,Highly Conserved,V3 Loop
+928,0.5,1.0,0.0,Variable,V3 Loop
+929,0.5,1.0,0.0,Variable,V3 Loop
+930,0.5,1.5,0.0,Variable,V3 Loop
+931,1.0,0.0,0.0,Highly Conserved,V3 Loop
+932,1.0,0.0,0.0,Highly Conserved,V3 Loop
+933,0.5,1.0,0.0,Variable,V3 Loop
+934,1.0,0.0,0.0,Highly Conserved,V3 Loop
+935,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+936,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+937,1.0,0.0,0.0,Highly Conserved,V3 Loop
+938,1.0,0.0,0.0,Highly Conserved,V3 Loop
+939,1.0,0.0,0.0,Highly Conserved,V3 Loop
+940,1.0,0.0,0.0,Highly Conserved,V3 Loop
+941,1.0,0.0,0.0,Highly Conserved,V3 Loop
+942,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+943,1.0,0.0,0.0,Highly Conserved,V3 Loop
+944,1.0,0.0,0.0,Highly Conserved,V3 Loop
+945,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+946,1.0,0.0,0.0,Highly Conserved,V3 Loop
+947,1.0,0.0,0.0,Highly Conserved,V3 Loop
+948,0.5,1.0,0.0,Variable,V3 Loop
+949,1.0,0.0,0.0,Highly Conserved,V3 Loop
+950,1.0,0.0,0.0,Highly Conserved,V3 Loop
+951,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+952,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+953,1.0,0.0,0.0,Highly Conserved,V3 Loop
+954,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+955,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+956,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+957,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+958,1.0,0.0,0.0,Highly Conserved,V3 Loop
+959,0.5,1.0,0.0,Variable,V3 Loop
+960,1.0,0.0,0.0,Highly Conserved,V3 Loop
+961,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+962,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+963,1.0,0.0,0.0,Highly Conserved,V3 Loop
+964,0.5,1.0,0.0,Variable,V3 Loop
+965,1.0,0.0,0.0,Highly Conserved,V3 Loop
+966,1.0,0.0,0.0,Highly Conserved,V3 Loop
+967,0.5,1.0,0.0,Variable,V3 Loop
+968,0.5,1.0,0.0,Variable,V3 Loop
+969,0.5,1.0,0.0,Variable,V3 Loop
+970,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+971,1.0,0.0,0.0,Highly Conserved,V3 Loop
+972,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+973,1.0,0.0,0.0,Highly Conserved,V3 Loop
+974,1.0,0.0,0.0,Highly Conserved,V3 Loop
+975,1.0,0.0,0.0,Highly Conserved,V3 Loop
+976,1.0,0.0,0.0,Highly Conserved,V3 Loop
+977,1.0,0.0,0.0,Highly Conserved,V3 Loop
+978,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+979,1.0,0.0,0.0,Highly Conserved,V3 Loop
+980,1.0,0.0,0.0,Highly Conserved,V3 Loop
+981,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+982,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+983,1.0,0.0,0.0,Highly Conserved,V3 Loop
+984,1.0,0.0,0.0,Highly Conserved,V3 Loop
+985,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+986,1.0,0.0,0.0,Highly Conserved,V3 Loop
+987,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+988,1.0,0.0,0.0,Highly Conserved,V3 Loop
+989,1.0,0.0,0.0,Highly Conserved,V3 Loop
+990,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+991,1.0,0.0,0.0,Highly Conserved,V3 Loop
+992,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+993,1.0,0.0,0.0,Highly Conserved,V3 Loop
+994,0.75,0.8112781244591328,0.0,Variable,V3 Loop
+995,1.0,0.0,0.0,Highly Conserved,V3 Loop
+996,1.0,0.0,0.0,Highly Conserved,V3 Loop
+997,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+998,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+999,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1000,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1001,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1002,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1003,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1004,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1005,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1006,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1007,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1008,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1009,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1010,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1011,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1012,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1013,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1014,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1015,0.5,1.0,0.0,Variable,Conserved/Core
+1016,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1017,0.5,1.0,0.0,Variable,Conserved/Core
+1018,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1019,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1020,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1021,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1022,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1023,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1024,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1025,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1026,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1027,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1028,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1029,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1030,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1031,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1032,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1033,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1034,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1035,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1036,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1037,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1038,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1039,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1040,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1041,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1042,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1043,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1044,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1045,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1046,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1047,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1048,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1049,0.5,1.5,0.0,Variable,Conserved/Core
+1050,0.5,1.0,0.0,Variable,Conserved/Core
+1051,0.5,1.5,0.0,Variable,Conserved/Core
+1052,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1053,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1054,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1055,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1056,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1057,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1058,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1059,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1060,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1061,0.5,1.5,0.0,Variable,Conserved/Core
+1062,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1063,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1064,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1065,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1066,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1067,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1068,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1069,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1070,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1071,0.5,1.0,0.0,Variable,Conserved/Core
+1072,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1073,0.5,1.5,0.0,Variable,Conserved/Core
+1074,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1075,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1076,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1077,0.5,1.0,0.0,Variable,Conserved/Core
+1078,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1079,0.5,1.5,0.0,Variable,Conserved/Core
+1080,0.5,1.0,0.0,Variable,Conserved/Core
+1081,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1082,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1083,0.5,1.0,0.0,Variable,Conserved/Core
+1084,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1085,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1086,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1087,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1088,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1089,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1090,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1091,0.5,1.0,0.0,Variable,Conserved/Core
+1092,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1093,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1094,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1095,0.5,1.0,0.0,Variable,Conserved/Core
+1096,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1097,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1098,0.5,1.0,0.0,Variable,Conserved/Core
+1099,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1100,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1101,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+1102,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+1103,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+1104,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1105,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1106,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1107,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1108,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1109,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1110,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1111,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1112,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1113,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1114,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1115,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1116,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1117,0.5,1.0,0.0,Variable,Conserved/Core
+1118,0.5,1.5,0.0,Variable,Conserved/Core
+1119,0.5,1.5,0.0,Variable,Conserved/Core
+1120,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1121,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1122,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1123,0.5,1.0,0.0,Variable,Conserved/Core
+1124,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1125,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1126,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1127,0.5,1.0,0.0,Variable,Conserved/Core
+1128,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1129,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1130,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1131,0.5,1.0,0.0,Variable,Conserved/Core
+1132,0.5,1.5,0.0,Variable,Conserved/Core
+1133,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1134,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1135,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1136,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1137,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1138,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1139,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1140,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1141,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1142,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1143,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1144,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1145,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1146,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1147,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1148,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1149,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1150,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1151,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1152,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1153,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1154,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1155,0.5,1.5,0.0,Variable,Conserved/Core
+1156,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1157,0.5,1.0,0.0,Variable,V4 Loop
+1158,0.5,1.0,0.0,Variable,V4 Loop
+1159,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1160,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1161,0.5,1.0,0.0,Variable,V4 Loop
+1162,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1163,0.5,1.0,0.0,Variable,V4 Loop
+1164,0.5,1.0,0.0,Variable,V4 Loop
+1165,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1166,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1167,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1168,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1169,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1170,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1171,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1172,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1173,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1174,0.5,1.0,0.0,Variable,V4 Loop
+1175,0.5,1.5,0.0,Variable,V4 Loop
+1176,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1177,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1178,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1179,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1180,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1181,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1182,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1183,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1184,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1185,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1186,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1187,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1188,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1189,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1190,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1191,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1192,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1193,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1194,0.5,1.0,0.0,Variable,V4 Loop
+1195,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1196,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1197,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1198,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1199,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1200,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1201,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1202,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1203,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1204,0.5,1.0,0.0,Variable,V4 Loop
+1205,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1206,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1207,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1208,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1209,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1210,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1211,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1212,0.5,1.0,0.0,Variable,V4 Loop
+1213,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1214,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1215,1.0,0.0,0.25,Highly Conserved,V4 Loop
+1216,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1217,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1218,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1219,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1220,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1221,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1222,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1223,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1224,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1225,0.5,1.5,0.0,Variable,V4 Loop
+1226,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1227,0.5,1.0,0.0,Variable,V4 Loop
+1228,0.5,1.5,0.0,Variable,V4 Loop
+1229,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1230,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1231,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1232,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1233,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1234,1.0,0.0,0.75,Highly Conserved,V4 Loop
+1235,1.0,0.0,0.5,Highly Conserved,V4 Loop
+1236,0.6666666666666666,0.9182958340544896,0.25,Variable,V4 Loop
+1237,0.6666666666666666,0.9182958340544896,0.25,Variable,V4 Loop
+1238,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1239,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1240,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1241,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1242,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1243,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1244,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1245,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1246,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1247,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1248,0.5,1.5,0.0,Variable,V4 Loop
+1249,0.5,1.5,0.0,Variable,V4 Loop
+1250,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1251,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1252,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1253,0.5,1.0,0.0,Variable,V4 Loop
+1254,1.0,0.0,0.0,Highly Conserved,V4 Loop
+1255,0.75,0.8112781244591328,0.0,Variable,V4 Loop
+1256,0.5,1.0,0.0,Variable,V4 Loop
+1257,0.5,1.0,0.0,Variable,V4 Loop
+1258,0.5,1.0,0.0,Variable,Conserved/Core
+1259,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1260,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1261,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1262,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1263,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1264,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1265,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1266,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1267,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1268,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+1269,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+1270,0.5,1.0,0.5,Variable,Conserved/Core
+1271,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+1272,0.5,1.0,0.5,Variable,Conserved/Core
+1273,0.5,1.0,0.5,Variable,Conserved/Core
+1274,0.5,1.5,0.0,Variable,Conserved/Core
+1275,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1276,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1277,0.5,1.5,0.0,Variable,Conserved/Core
+1278,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1279,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1280,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1281,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1282,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1283,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1284,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1285,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1286,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1287,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1288,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1289,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1290,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1291,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1292,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1293,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1294,0.5,1.0,0.0,Variable,Conserved/Core
+1295,0.5,1.0,0.0,Variable,Conserved/Core
+1296,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1297,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1298,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1299,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1300,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1301,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1302,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1303,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1304,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1305,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1306,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1307,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1308,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1309,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1310,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1311,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1312,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1313,0.5,1.5,0.0,Variable,Conserved/Core
+1314,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1315,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1316,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1317,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1318,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1319,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1320,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1321,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1322,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1323,0.5,1.0,0.0,Variable,Conserved/Core
+1324,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1325,0.5,1.0,0.0,Variable,Conserved/Core
+1326,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1327,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1328,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1329,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1330,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1331,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1332,0.5,1.0,0.0,Variable,Conserved/Core
+1333,0.5,1.0,0.0,Variable,Conserved/Core
+1334,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1335,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1336,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1337,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1338,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1339,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1340,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1341,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1342,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1343,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1344,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1345,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1346,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1347,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1348,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1349,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1350,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1351,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1352,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1353,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1354,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1355,0.5,1.0,0.0,Variable,Conserved/Core
+1356,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1357,0.5,1.0,0.0,Variable,Conserved/Core
+1358,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1359,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1360,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1361,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1362,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1363,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1364,0.5,1.5,0.0,Variable,Conserved/Core
+1365,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1366,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1367,0.5,1.0,0.0,Variable,Conserved/Core
+1368,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1369,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1370,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1371,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1372,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1373,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1374,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1375,0.5,1.5,0.0,Variable,Conserved/Core
+1376,0.5,1.5,0.0,Variable,Conserved/Core
+1377,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1378,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1379,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1380,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1381,0.5,1.5,0.0,Variable,V5 Loop
+1382,0.75,0.8112781244591328,0.0,Variable,V5 Loop
+1383,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1384,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1385,0.5,1.0,0.0,Variable,V5 Loop
+1386,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1387,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1388,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1389,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1390,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1391,0.5,1.0,0.0,Variable,V5 Loop
+1392,0.5,1.5,0.0,Variable,V5 Loop
+1393,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1394,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1395,0.5,1.0,0.0,Variable,V5 Loop
+1396,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1397,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1398,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1399,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1400,0.75,0.8112781244591328,0.0,Variable,V5 Loop
+1401,0.75,0.8112781244591328,0.0,Variable,V5 Loop
+1402,0.75,0.8112781244591328,0.0,Variable,V5 Loop
+1403,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1404,0.5,1.0,0.0,Variable,V5 Loop
+1405,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1406,0.75,0.8112781244591328,0.0,Variable,V5 Loop
+1407,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1408,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1409,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1410,1.0,0.0,0.0,Highly Conserved,V5 Loop
+1411,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1412,0.5,1.0,0.0,Variable,Conserved/Core
+1413,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1414,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1415,0.5,1.5,0.0,Variable,Conserved/Core
+1416,0.5,1.5,0.0,Variable,Conserved/Core
+1417,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1418,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1419,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1420,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+1421,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+1422,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+1423,1.0,0.0,0.25,Highly Conserved,Conserved/Core
+1424,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+1425,0.6666666666666666,0.9182958340544896,0.25,Variable,Conserved/Core
+1426,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1427,0.5,1.5,0.0,Variable,Conserved/Core
+1428,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1429,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1430,0.5,1.5,0.0,Variable,Conserved/Core
+1431,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1432,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1433,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1434,0.5,1.0,0.0,Variable,Conserved/Core
+1435,0.5,1.5,0.0,Variable,Conserved/Core
+1436,0.5,1.5,0.0,Variable,Conserved/Core
+1437,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1438,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1439,0.5,1.5,0.0,Variable,Conserved/Core
+1440,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1441,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1442,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1443,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1444,0.5,1.0,0.0,Variable,Conserved/Core
+1445,0.5,1.0,0.0,Variable,Conserved/Core
+1446,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1447,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1448,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1449,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1450,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1451,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1452,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1453,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1454,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1455,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1456,0.5,1.0,0.0,Variable,Conserved/Core
+1457,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1458,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1459,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1460,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1461,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1462,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1463,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1464,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1465,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1466,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1467,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1468,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1469,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1470,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1471,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1472,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1473,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1474,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1475,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1476,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1477,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1478,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1479,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1480,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1481,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1482,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1483,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1484,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1485,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1486,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1487,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1488,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1489,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1490,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1491,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1492,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1493,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1494,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1495,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1496,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1497,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1498,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1499,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1500,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1501,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1502,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1503,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1504,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1505,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1506,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1507,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1508,0.5,1.0,0.0,Variable,Conserved/Core
+1509,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1510,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1511,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1512,0.5,1.0,0.0,Variable,Conserved/Core
+1513,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1514,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1515,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1516,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1517,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1518,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1519,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1520,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1521,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1522,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1523,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1524,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1525,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1526,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1527,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1528,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1529,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1530,0.5,1.0,0.0,Variable,Conserved/Core
+1531,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1532,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1533,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1534,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1535,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1536,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1537,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1538,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1539,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1540,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1541,0.5,1.0,0.0,Variable,Conserved/Core
+1542,0.5,1.0,0.0,Variable,Conserved/Core
+1543,0.5,1.0,0.0,Variable,Conserved/Core
+1544,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1545,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1546,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1547,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1548,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1549,0.5,1.0,0.0,Variable,Conserved/Core
+1550,0.5,1.0,0.0,Variable,Conserved/Core
+1551,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1552,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1553,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1554,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1555,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1556,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1557,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1558,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1559,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1560,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1561,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1562,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1563,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1564,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1565,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1566,1.0,0.0,0.75,Highly Conserved,Conserved/Core
+1567,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1568,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1569,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1570,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1571,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1572,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1573,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1574,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1575,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1576,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1577,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1578,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1579,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1580,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1581,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1582,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1583,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1584,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1585,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1586,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1587,0.5,1.5,0.0,Variable,Conserved/Core
+1588,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1589,0.5,1.5,0.0,Variable,Conserved/Core
+1590,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1591,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1592,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1593,0.5,1.0,0.0,Variable,Conserved/Core
+1594,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1595,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1596,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1597,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1598,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1599,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1600,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1601,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1602,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1603,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1604,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1605,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1606,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1607,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1608,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1609,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1610,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1611,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1612,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1613,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1614,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1615,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1616,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1617,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1618,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1619,0.5,1.0,0.0,Variable,Conserved/Core
+1620,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1621,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1622,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1623,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1624,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1625,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1626,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1627,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1628,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1629,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1630,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1631,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1632,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1633,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1634,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1635,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1636,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1637,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1638,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1639,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1640,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1641,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1642,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1643,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1644,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1645,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1646,0.5,1.0,0.0,Variable,Conserved/Core
+1647,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1648,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1649,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1650,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1651,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1652,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1653,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1654,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1655,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1656,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1657,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1658,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1659,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1660,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1661,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1662,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1663,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1664,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1665,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1666,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1667,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1668,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1669,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1670,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1671,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1672,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1673,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1674,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1675,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1676,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1677,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1678,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1679,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1680,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1681,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1682,0.5,1.0,0.0,Variable,Conserved/Core
+1683,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1684,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1685,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1686,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1687,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1688,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1689,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1690,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1691,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1692,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1693,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1694,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1695,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1696,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1697,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1698,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1699,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1700,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1701,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1702,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1703,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1704,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1705,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1706,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1707,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1708,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1709,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1710,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1711,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1712,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1713,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1714,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1715,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1716,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1717,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1718,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1719,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1720,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1721,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1722,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1723,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1724,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1725,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1726,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1727,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1728,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1729,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1730,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1731,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1732,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1733,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1734,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1735,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1736,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1737,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1738,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1739,0.5,1.0,0.0,Variable,Conserved/Core
+1740,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1741,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1742,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1743,0.5,1.5,0.0,Variable,Conserved/Core
+1744,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1745,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1746,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1747,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1748,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1749,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1750,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1751,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1752,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1753,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1754,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1755,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1756,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1757,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1758,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1759,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1760,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1761,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1762,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1763,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1764,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1765,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1766,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1767,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1768,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1769,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1770,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1771,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1772,0.5,1.0,0.0,Variable,Conserved/Core
+1773,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1774,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1775,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1776,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1777,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1778,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1779,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1780,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1781,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1782,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1783,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1784,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1785,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1786,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1787,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1788,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1789,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1790,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1791,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1792,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1793,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1794,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1795,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1796,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1797,0.5,1.5,0.0,Variable,Conserved/Core
+1798,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1799,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1800,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1801,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1802,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1803,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1804,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1805,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1806,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1807,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1808,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1809,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1810,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1811,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1812,0.5,1.5,0.0,Variable,Conserved/Core
+1813,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1814,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1815,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1816,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1817,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1818,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1819,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1820,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1821,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1822,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1823,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1824,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1825,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1826,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1827,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1828,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1829,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1830,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1831,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1832,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1833,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1834,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1835,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1836,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1837,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1838,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1839,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1840,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1841,0.5,1.5,0.0,Variable,Conserved/Core
+1842,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1843,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1844,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1845,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1846,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1847,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1848,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1849,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1850,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1851,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1852,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1853,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1854,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1855,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1856,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1857,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1858,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1859,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1860,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1861,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1862,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1863,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1864,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1865,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1866,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1867,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1868,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1869,0.5,1.5,0.0,Variable,Conserved/Core
+1870,0.5,1.0,0.0,Variable,Conserved/Core
+1871,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1872,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1873,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1874,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1875,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1876,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1877,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1878,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1879,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1880,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1881,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1882,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1883,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1884,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1885,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1886,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1887,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1888,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1889,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1890,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1891,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1892,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1893,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1894,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1895,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1896,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1897,0.5,1.0,0.0,Variable,Conserved/Core
+1898,0.5,1.5,0.0,Variable,Conserved/Core
+1899,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1900,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1901,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1902,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1903,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1904,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1905,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1906,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1907,0.5,1.5,0.0,Variable,Conserved/Core
+1908,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1909,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1910,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1911,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1912,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1913,0.5,1.5,0.0,Variable,Conserved/Core
+1914,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1915,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1916,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1917,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1918,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1919,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1920,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1921,0.5,1.0,0.0,Variable,Conserved/Core
+1922,0.5,1.5,0.0,Variable,Conserved/Core
+1923,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1924,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1925,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1926,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1927,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1928,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1929,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1930,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1931,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1932,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1933,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1934,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1935,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1936,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1937,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1938,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1939,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1940,0.5,1.0,0.0,Variable,Conserved/Core
+1941,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1942,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1943,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1944,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1945,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1946,0.5,1.5,0.0,Variable,Conserved/Core
+1947,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1948,0.5,1.0,0.0,Variable,Conserved/Core
+1949,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1950,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1951,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1952,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1953,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1954,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1955,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1956,0.5,1.0,0.0,Variable,Conserved/Core
+1957,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1958,0.5,1.0,0.0,Variable,Conserved/Core
+1959,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1960,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1961,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1962,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1963,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1964,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1965,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1966,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1967,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1968,0.5,1.5,0.0,Variable,Conserved/Core
+1969,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1970,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1971,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1972,0.5,1.5,0.0,Variable,Conserved/Core
+1973,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1974,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1975,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1976,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1977,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1978,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1979,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1980,0.5,1.5,0.0,Variable,Conserved/Core
+1981,0.5,1.0,0.0,Variable,Conserved/Core
+1982,0.5,1.5,0.0,Variable,Conserved/Core
+1983,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1984,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1985,0.5,1.0,0.0,Variable,Conserved/Core
+1986,0.5,1.0,0.0,Variable,Conserved/Core
+1987,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1988,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1989,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1990,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1991,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1992,0.5,1.5,0.0,Variable,Conserved/Core
+1993,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1994,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1995,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+1996,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1997,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1998,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+1999,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2000,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2001,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2002,0.5,1.5,0.0,Variable,Conserved/Core
+2003,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2004,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2005,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2006,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2007,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2008,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2009,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2010,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2011,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2012,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2013,0.5,1.0,0.0,Variable,Conserved/Core
+2014,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2015,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2016,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2017,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2018,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2019,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2020,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2021,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2022,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2023,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2024,0.5,1.0,0.0,Variable,Conserved/Core
+2025,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2026,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2027,0.5,1.5,0.0,Variable,Conserved/Core
+2028,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2029,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2030,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2031,0.5,1.5,0.0,Variable,Conserved/Core
+2032,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2033,0.5,1.0,0.0,Variable,Conserved/Core
+2034,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2035,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2036,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2037,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2038,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2039,0.5,1.5,0.0,Variable,Conserved/Core
+2040,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2041,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2042,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2043,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2044,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2045,0.5,1.0,0.0,Variable,Conserved/Core
+2046,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2047,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2048,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2049,0.5,1.5,0.0,Variable,Conserved/Core
+2050,0.5,1.0,0.0,Variable,Conserved/Core
+2051,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2052,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2053,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2054,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2055,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2056,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2057,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2058,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2059,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2060,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2061,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2062,0.5,1.0,0.0,Variable,Conserved/Core
+2063,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2064,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2065,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2066,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2067,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2068,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2069,0.5,1.0,0.0,Variable,Conserved/Core
+2070,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2071,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2072,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2073,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2074,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2075,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2076,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2077,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2078,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2079,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2080,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2081,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2082,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2083,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2084,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2085,0.5,1.5,0.0,Variable,Conserved/Core
+2086,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2087,0.5,1.0,0.0,Variable,Conserved/Core
+2088,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2089,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2090,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2091,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2092,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2093,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2094,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2095,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2096,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2097,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2098,0.5,1.0,0.0,Variable,Conserved/Core
+2099,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2100,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2101,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2102,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2103,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2104,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2105,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2106,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2107,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2108,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2109,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2110,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2111,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2112,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2113,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2114,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2115,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2116,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2117,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2118,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2119,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2120,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2121,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2122,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2123,0.5,1.0,0.0,Variable,Conserved/Core
+2124,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2125,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2126,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2127,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2128,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2129,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2130,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2131,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2132,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2133,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2134,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2135,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2136,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2137,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2138,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2139,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2140,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2141,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2142,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2143,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2144,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2145,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2146,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2147,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2148,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2149,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2150,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2151,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2152,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2153,0.5,1.0,0.0,Variable,Conserved/Core
+2154,0.5,1.5,0.0,Variable,Conserved/Core
+2155,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2156,0.5,1.5,0.0,Variable,Conserved/Core
+2157,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2158,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2159,0.5,1.5,0.0,Variable,Conserved/Core
+2160,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2161,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2162,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2163,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2164,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2165,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2166,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2167,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2168,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2169,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2170,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2171,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2172,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2173,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2174,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2175,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2176,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2177,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2178,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2179,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2180,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2181,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2182,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2183,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2184,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2185,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2186,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2187,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2188,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2189,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2190,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2191,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2192,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2193,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2194,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2195,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2196,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2197,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2198,0.5,1.0,0.0,Variable,Conserved/Core
+2199,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2200,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2201,0.5,1.0,0.0,Variable,Conserved/Core
+2202,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2203,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2204,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2205,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2206,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2207,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2208,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2209,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2210,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2211,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2212,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2213,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2214,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2215,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2216,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2217,0.5,1.5,0.0,Variable,Conserved/Core
+2218,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2219,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2220,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2221,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2222,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2223,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2224,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2225,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2226,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2227,0.5,1.0,0.0,Variable,Conserved/Core
+2228,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2229,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2230,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2231,0.5,1.0,0.0,Variable,Conserved/Core
+2232,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2233,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2234,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2235,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2236,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2237,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2238,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2239,0.5,1.0,0.0,Variable,Conserved/Core
+2240,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2241,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2242,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2243,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2244,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2245,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2246,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2247,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2248,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2249,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2250,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2251,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2252,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2253,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2254,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2255,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2256,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2257,0.5,1.0,0.0,Variable,Conserved/Core
+2258,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2259,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2260,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2261,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2262,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2263,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2264,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2265,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2266,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2267,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2268,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2269,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2270,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2271,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2272,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2273,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2274,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2275,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2276,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2277,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2278,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2279,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2280,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2281,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2282,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2283,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2284,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2285,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2286,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2287,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2288,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2289,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2290,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2291,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2292,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2293,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2294,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2295,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2296,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2297,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2298,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2299,0.5,1.0,0.0,Variable,Conserved/Core
+2300,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2301,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2302,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2303,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2304,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2305,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2306,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2307,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2308,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2309,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2310,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2311,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2312,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2313,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2314,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2315,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2316,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2317,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2318,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2319,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2320,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2321,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2322,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2323,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2324,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2325,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2326,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2327,0.5,1.0,0.0,Variable,Conserved/Core
+2328,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2329,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2330,0.5,1.5,0.0,Variable,Conserved/Core
+2331,0.5,1.0,0.0,Variable,Conserved/Core
+2332,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2333,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2334,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2335,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2336,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2337,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2338,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2339,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2340,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2341,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2342,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2343,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2344,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2345,0.5,1.0,0.0,Variable,Conserved/Core
+2346,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2347,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2348,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2349,0.5,1.5,0.0,Variable,Conserved/Core
+2350,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2351,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2352,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2353,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2354,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2355,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2356,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2357,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2358,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2359,0.5,1.0,0.0,Variable,Conserved/Core
+2360,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2361,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2362,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2363,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2364,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2365,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2366,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2367,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2368,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2369,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2370,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2371,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2372,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2373,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2374,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2375,0.5,1.0,0.0,Variable,Conserved/Core
+2376,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2377,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2378,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2379,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2380,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2381,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2382,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2383,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2384,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2385,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2386,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2387,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2388,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2389,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2390,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2391,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2392,0.5,1.0,0.0,Variable,Conserved/Core
+2393,0.5,1.5,0.0,Variable,Conserved/Core
+2394,0.5,1.5,0.0,Variable,Conserved/Core
+2395,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2396,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2397,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2398,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2399,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2400,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2401,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2402,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2403,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2404,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2405,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2406,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2407,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2408,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2409,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2410,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2411,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2412,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2413,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2414,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2415,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2416,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2417,0.5,1.0,0.5,Variable,Conserved/Core
+2418,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2419,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2420,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2421,0.5,1.0,0.5,Variable,Conserved/Core
+2422,0.5,1.0,0.5,Variable,Conserved/Core
+2423,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2424,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2425,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2426,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2427,0.5,1.0,0.5,Variable,Conserved/Core
+2428,1.0,0.0,0.5,Highly Conserved,Conserved/Core
+2429,0.5,1.0,0.5,Variable,Conserved/Core
+2430,0.5,1.0,0.5,Variable,Conserved/Core
+2431,0.5,1.0,0.5,Variable,Conserved/Core
+2432,0.5,1.0,0.5,Variable,Conserved/Core
+2433,0.5,1.0,0.5,Variable,Conserved/Core
+2434,0.5,1.0,0.5,Variable,Conserved/Core
+2435,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2436,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2437,0.5,1.0,0.0,Variable,Conserved/Core
+2438,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2439,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2440,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2441,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2442,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2443,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2444,0.5,1.0,0.0,Variable,Conserved/Core
+2445,0.5,1.0,0.0,Variable,Conserved/Core
+2446,0.5,1.5,0.0,Variable,Conserved/Core
+2447,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2448,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2449,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2450,0.5,1.0,0.0,Variable,Conserved/Core
+2451,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2452,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2453,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2454,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2455,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2456,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2457,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2458,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2459,0.5,1.5,0.0,Variable,Conserved/Core
+2460,0.5,1.0,0.0,Variable,Conserved/Core
+2461,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2462,0.5,1.0,0.0,Variable,Conserved/Core
+2463,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2464,0.5,1.0,0.0,Variable,Conserved/Core
+2465,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2466,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2467,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2468,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2469,0.5,1.0,0.0,Variable,Conserved/Core
+2470,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2471,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2472,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2473,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2474,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2475,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2476,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2477,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2478,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2479,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2480,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2481,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2482,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2483,0.5,1.5,0.0,Variable,Conserved/Core
+2484,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2485,0.5,1.5,0.0,Variable,Conserved/Core
+2486,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2487,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2488,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2489,0.5,1.0,0.0,Variable,Conserved/Core
+2490,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2491,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2492,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2493,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2494,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2495,0.5,1.0,0.0,Variable,Conserved/Core
+2496,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2497,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2498,0.5,1.0,0.0,Variable,Conserved/Core
+2499,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2500,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2501,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2502,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2503,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2504,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2505,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2506,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2507,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2508,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2509,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2510,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2511,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2512,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2513,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2514,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2515,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2516,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2517,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2518,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2519,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2520,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2521,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2522,0.5,1.5,0.0,Variable,Conserved/Core
+2523,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2524,0.5,1.0,0.0,Variable,Conserved/Core
+2525,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2526,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2527,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2528,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2529,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2530,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2531,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2532,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2533,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2534,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2535,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2536,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2537,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2538,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2539,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2540,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2541,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2542,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2543,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2544,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2545,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2546,0.5,1.0,0.0,Variable,Conserved/Core
+2547,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2548,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2549,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2550,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2551,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2552,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2553,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2554,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2555,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2556,0.5,1.5,0.0,Variable,Conserved/Core
+2557,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2558,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2559,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2560,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2561,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2562,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2563,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2564,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2565,0.5,1.0,0.0,Variable,Conserved/Core
+2566,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2567,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2568,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2569,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2570,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2571,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2572,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2573,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2574,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2575,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2576,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2577,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2578,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2579,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2580,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2581,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2582,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2583,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2584,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2585,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2586,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2587,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2588,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2589,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2590,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2591,0.5,1.0,0.0,Variable,Conserved/Core
+2592,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2593,0.5,1.0,0.0,Variable,Conserved/Core
+2594,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2595,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2596,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2597,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2598,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2599,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2600,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2601,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2602,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2603,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2604,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2605,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2606,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2607,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2608,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2609,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2610,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2611,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2612,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2613,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2614,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2615,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2616,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2617,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2618,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2619,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2620,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2621,0.5,1.5,0.0,Variable,Conserved/Core
+2622,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2623,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2624,0.5,1.5,0.0,Variable,Conserved/Core
+2625,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2626,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2627,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2628,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2629,0.5,1.0,0.0,Variable,Conserved/Core
+2630,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2631,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2632,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2633,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2634,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2635,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2636,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2637,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2638,0.75,0.8112781244591328,0.0,Variable,Conserved/Core
+2639,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2640,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2641,1.0,0.0,0.0,Highly Conserved,Conserved/Core
+2642,1.0,0.0,0.0,Highly Conserved,Conserved/Core
